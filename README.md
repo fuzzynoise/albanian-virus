@@ -12,3 +12,6 @@ Many thanks for your cooperation!
 Best regards,
 Albanian virus
 ```
+
+## If it is not clear: this is satire.
+It's a fun way to explore GUI components in various languages.
