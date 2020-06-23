@@ -13,5 +13,7 @@ Best regards,
 Albanian virus
 ```
 
-## If it is not clear: this is satire.
+## If it is not clear: this Software is satire.
 It's a fun way to explore GUI components in various languages.
+
+[LICENSE](LICENSE)
