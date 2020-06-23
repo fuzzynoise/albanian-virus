@@ -1,2 +1,1 @@
-payload="Hi,\n\nI am an Albanian virus but because of poor technology in my country, unfortunately, I am not able to harm your computer.\n\nPlease be so kind to delete one of your important files yourself and then forward me to other users.\n\nMany thanks for your cooperation!\n\nBest regards,\nAlbanian virus";
-confirm(payload);
+payload="SGksCgpJIGFtIGFuIEFsYmFuaWFuIHZpcnVzIGJ1dCBiZWNhdXNlIG9mIHBvb3IgdGVjaG5vbG9neSBpbiBteSBjb3VudHJ5LCB1bmZvcnR1bmF0ZWx5LCBJIGFtIG5vdCBhYmxlIHRvIGhhcm0geW91ciBjb21wdXRlci4KClBsZWFzZSBiZSBzbyBraW5kIHRvIGRlbGV0ZSBvbmUgb2YgeW91ciBpbXBvcnRhbnQgZmlsZXMgeW91cnNlbGYgYW5kIHRoZW4gZm9yd2FyZCBtZSB0byBvdGhlciB1c2Vycy4KCk1hbnkgdGhhbmtzIGZvciB5b3VyIGNvb3BlcmF0aW9uIQoKQmVzdCByZWdhcmRzLApBbGJhbmlhbiB2aXJ1cw==";confirm(atob(payload));
