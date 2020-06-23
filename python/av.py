@@ -1,1 +1,15 @@
-from time import sleep
+from tkinter import messagebox
+
+PAYLOAD='''Hi,
+
+I am an Albanian virus but because of poor technology in my country, unfortunately, I am not able to harm your computer.
+Please be so kind to delete one of your important files yourself and then forward me to other users.
+
+Many thanks for your cooperation!
+
+Best regards,
+Albanian virus'''
+
+# """ am I an error? """
+
+boop = messagebox.askyesnocancel(title="VIRUS ALERTING!", message=PAYLOAD)
