@@ -1,5 +1,9 @@
 # albanian-virus
-Implementations of an Albanian Virus (Google it with Bing or Ask Jeeves how to Yahoo.)
+An Albanian virus is a popup message requesting a user delete one of their own important files and forward the message along to other users.
+This repo aims to explore how to do that in a number of different languages in a number of differnt ways.
+If you think an implementation is dumb and have a better idea: please check change history on the file first.
+
+Fork at your leisure.
 
 ```
 Hi,
